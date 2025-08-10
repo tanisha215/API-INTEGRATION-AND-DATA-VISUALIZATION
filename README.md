@@ -50,3 +50,6 @@ This project provides a visual analysis of weather data across major cities usin
 ├── weather_visualization.py   # Python script for generating plots ├── temperature_comparison.png # Bar chart of city temperatures ├── humidity_vs_temperature.png# Scatter plot of humidity vs. temperature ├── weather_conditions.png     # Count plot of weather conditions └── README.md                  # Project documentation
 
 ##OUTPUT
+<img width="1536" height="754" alt="Image" src="https://github.com/user-attachments/assets/f8207d8b-e93f-4a60-bebd-add8e16c9a41" />
+
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/b4d6c12f-c3c2-4ae3-90db-3f83ab717d75" />
