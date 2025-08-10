@@ -53,3 +53,5 @@ This project provides a visual analysis of weather data across major cities usin
 <img width="1536" height="754" alt="Image" src="https://github.com/user-attachments/assets/f8207d8b-e93f-4a60-bebd-add8e16c9a41" />
 
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/b4d6c12f-c3c2-4ae3-90db-3f83ab717d75" />
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/b33e1ad5-33ae-408f-abba-cdb7b3ad3a73" />
+
